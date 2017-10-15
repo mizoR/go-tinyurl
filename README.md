@@ -1,0 +1,3 @@
+# Tinyurl
+
+For Go training
